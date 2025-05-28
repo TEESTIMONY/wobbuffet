@@ -1,0 +1,14 @@
+This is a placeholder file. 
+
+To complete the website, you'll need to add the following images to this directory:
+
+- wobbuffet-logo.png - The logo for the header
+- wobbuffet-hero.png - The main hero image with multiple Wobbuffet characters
+- wobbuffet-about.png - Image for the about section (framed painting of Suiland)
+- aqua-crystal.png - Image for the Aqua Crystal
+- game1.png - First game preview image
+- game2.png - Second game preview image
+- gameplay.png - Gameplay preview image
+- monster1.png to monster15.png - Images for the monster collection section
+
+You can create custom images that match your brand identity or use appropriate Wobbuffet-themed graphics. 
